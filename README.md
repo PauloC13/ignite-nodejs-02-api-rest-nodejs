@@ -23,3 +23,5 @@ npm i @fastify/cookie
 npm i vitest -d
 
 npm i -D @types/supertest 
+
+npm i tsup -D
